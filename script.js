@@ -63,7 +63,7 @@ const availableStat = document.getElementById("available");
 
 switchTab(currentTab);
 
-//deligation korbo
+//deligation 
 
 document.getElementById("jobs-container").addEventListener("click", function(event){
     const clickElement = event.target;
